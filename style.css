@@ -69,4 +69,16 @@ a {
     font-weight: bold;
     cursor: pointer;
     border-radius: 4px;
+    transition: 0.5s;
+}
+
+a:hover {
+    background-color: #ffffff;
+    color: orangered;
+    border: 1px solid orangered;
+}
+
+.rodape {
+    text-align: center;
+    margin-top: 100%;
 }
